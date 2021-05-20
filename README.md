@@ -1,2 +1,2 @@
 # The Art of Coding
-Introduction to the art of coding for problem solving.
+This is the repository of the art of coding for problem solving.
